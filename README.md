@@ -2,7 +2,7 @@
 
 👀 I’m interested in physics, electronics and free software
 
-💞️ I’m loving to tinker around with 3d printers and arduinos
+💞️ I’m loving to tinker around with 3d printers and microcontrollers
 
 🌱 I’m currently learning how to raise a child
 <!---
