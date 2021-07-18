@@ -1,14 +1,14 @@
-* Physics student
-* Software developer
-* 3D printing enthusiast
-* Arduino fanboy
-<!--
-- 👋 Hi, I’m @bliepp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+# 👋 Hi, I’m @bliepp
+
+👀 I’m interested in physics, electronics and free software
+
+💞️ I’m loving to tinker around with 3d printers and arduinos
+
+🌱 I’m currently learning how to raise a child
+<!---
 - 📫 How to reach me ...
 --->
+
 
 <!---
 bliepp/bliepp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
